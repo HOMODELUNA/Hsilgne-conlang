@@ -1,14 +1,14 @@
 # 自然
 
-famo		水
-faniso		雨
-laijiko		黄金
+famo		n:水
+faniso		n:雨,v:下雨
+laijiko		n:黄金
 
 ## 动物
-mino		狗
-jisano		豹子
-jisako		狮子
-jisakalo	老虎
-jiso		猫
-liko		鸡
+mino		n:狗
+jisano		n:豹子
+jisako		n:狮子
+jisakalo	n:老虎
+jiso		n:猫
+liko		n:鸡
 
