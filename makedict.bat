@@ -1,0 +1,1 @@
+.\util\dict2html.exe .\dict -o Hsilgine´Êµä.html -p Hsilgine´Êµä -h Hsilgine´Êµä
