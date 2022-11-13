@@ -10,3 +10,5 @@
    * [体](grammar/verb/aspect.md)
    * [语态](grammar/verb/tone.md)
    * [式](grammar/verb/form.md)
+* [句法](./grammar/syntax/README.md)
+    * [系动词与描述句](./grammar/syntax/be_verb.md)

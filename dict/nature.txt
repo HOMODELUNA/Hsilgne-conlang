@@ -3,7 +3,7 @@
 famo		n:水
 faniso		n:雨,v:下雨
 laijiko		n:黄金
-
+prato		m:草地
 ## 动物
 mino		n:狗
 jisano		n:豹子
