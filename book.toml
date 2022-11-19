@@ -5,3 +5,6 @@ multilingual = false
 src = "grammar"
 title = "Hsilgne"
 
+[build]
+build-dir="docs"
+
