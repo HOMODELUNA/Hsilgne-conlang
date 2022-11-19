@@ -1,0 +1,42 @@
+# 人
+homo		人
+musme		女孩
+dayora		n:死人,已死者
+## 关系
+frato		兄弟
+soror		姐妹
+papa		爸爸(口语)
+patro		父亲(书面语)
+mama		妈妈(口语)
+matro		母亲(书面语)
+matertero	阿姨,婶婶,姑姑
+avunculo	叔叔,伯伯
+## 动作
+go		活动
+dorm	v:睡觉,n:睡眠
+lud		v:玩
+mos		v:吃
+labor	v:工作/劳动
+sede	v:坐,坐下
+sto		v:站着,站立
+volans	v:飞
+## 人体
+janijo	头
+mano	手
+kruso	腿
+
+## 情感
+kaijiko		惊讶的表情
+
+## 装扮
+jano		n:帽子
+djaketo		n:夹克
+vestis		n:裙子(长裙)
+lakinio		n:裙子(短裙)
+vita		n:手环
+monio		n:项链
+tiario		n:长裤	
+speculo		n:眼镜
+
+## 娱乐
+wotasora	n:雪人
