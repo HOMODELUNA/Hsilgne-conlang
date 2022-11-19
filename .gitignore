@@ -1,2 +1,6 @@
-book
 /local_reference
+/book/dict
+/book/util
+/book/makedict.bat
+/book
+/util
