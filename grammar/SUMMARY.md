@@ -1,5 +1,5 @@
 # Summary
-[简介](../README.md)
+[简介](./README.md)
 * [音系](./phonology.md)
 * [名词和形容词](./noun-adj/README.md)
    * [数](./noun-adj/number.md)
