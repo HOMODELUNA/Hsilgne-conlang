@@ -10,3 +10,13 @@
 
 jano de-Anna 安娜的帽子
 
+TUCM koyol de-itarlektin --- omea de-lektinnol
+TUCM造语者联盟-语言学社区
+
+|koyol|de-|it-|arlektin|
+| --- |---|---|---|
+|联盟|所属|主格复数|造语者|
+
+|omea|de-|lektinol|
+|---|---|---|
+|社区|所属|语言学|

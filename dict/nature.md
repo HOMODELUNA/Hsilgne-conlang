@@ -12,7 +12,7 @@ laijiko		n:黄金
 prato		m:草地
 terra		n:土,土地
 tendisak	n:风,v:吹风,吹拂
-
+nefiatu		n:台风
 ## 天文
 jaro		n:年(时间概念)
 ## 方位

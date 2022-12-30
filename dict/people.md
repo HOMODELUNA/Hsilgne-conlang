@@ -20,6 +20,7 @@ labor	v:工作/劳动
 sede	v:坐,坐下
 sto		v:站着,站立
 volans	v:飞
+zash	v:咬
 ## 人体
 janijo	头
 mano	手

@@ -13,6 +13,8 @@
    * [变格表](./verb/collocation.md)
 * [介词](./preposition/README.md)
   * [时间介词](./preposition/temporal.md)
+  * [比较介词](./preposition/comparison.md)
 * [数词](./number.md)
 * [句法](./syntax/README.md)
     * [系动词与描述句](./syntax/be_verb.md)
+* [名字](./name.md)

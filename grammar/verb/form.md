@@ -22,6 +22,6 @@
 |自动式|j|(btgs),(pdkz)|jléd|
 |他动式|hj|b→d→g→p→t→k→s→t→b|hjled|
 
-自然式的动词,以faniso(下雨)为例,它的自然式陈述态是hfenosu元音变化的方式参考[态](tone.md)一章.
+自然式的动词,以faniso(下雨)为例,它的自然式陈述态是hfenosu元音变化的方式.参考[态](tone.md)一章.
 
 
